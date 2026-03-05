@@ -11,7 +11,7 @@
 
 <!--- BMO SKATE --->
 <p align="center">
-  <a href="https://alexleventis.com">
+  <a href="https://me.tooper.io">
     <img width=250 src="https://user-images.githubusercontent.com/64287087/184217299-05932364-bc4a-4437-b9d4-edce20ef501e.gif" alt="animated" />
   </a>
 </p>
